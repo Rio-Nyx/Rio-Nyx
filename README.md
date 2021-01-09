@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=Rio-Nyx)
 [![Rio-Nyx StackOverflow](https://stackoverflow-badge.vercel.app/?userID=12629996)](https://stackoverflow.com/users/12629996/rio-nyx)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Rio-Nyx&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=86400)
 <!--
+profile 
+![](https://komarev.com/ghpvc/?username=Rio-Nyx)
 stack overflow
 [![Rio Nyx StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12629996)](https://stackoverflow.com/users/12629996/rio-nyx)
 -->
