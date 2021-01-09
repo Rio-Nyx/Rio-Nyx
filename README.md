@@ -13,5 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><div style="width:3em;">
-![](https://komarev.com/ghpvc/?username=Rio-Nyx)</div>
+-->
+![](https://komarev.com/ghpvc/?username=Rio-Nyx)
+[![Rio-Nyx StackOverflow](https://stackoverflow-badge.vercel.app/?userID=12629996)](https://stackoverflow.com/users/12629996/rio-nyx)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Rio-Nyx&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=86400)
+<!--
+stack overflow
+[![Rio Nyx StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12629996)](https://stackoverflow.com/users/12629996/rio-nyx)
+-->
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/Rio-Nyx/count.svg" />
+</p>
