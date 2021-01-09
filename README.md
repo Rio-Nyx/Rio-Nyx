@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am one who likes to do different sort of things each day. 
+
 [![Rio-Nyx StackOverflow](https://stackoverflow-badge.vercel.app/?userID=12629996)](https://stackoverflow.com/users/12629996/rio-nyx)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Rio-Nyx&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=86400)
