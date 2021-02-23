@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 -->
 I am one who likes to do different sort of things each day. 
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Rio-Nyx&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=86400)
+
 ![status.png](https://github.com/Rio-Nyx/Rio-Nyx/blob/main/status.png)
 
 <!--[![Rio-Nyx StackOverflow](https://stackoverflow-badge.vercel.app/?userID=12629996)](https://stackoverflow.com/users/12629996/rio-nyx)
 -->
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Rio-Nyx&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=86400)
+
 <!--
 profile 
 ![](https://komarev.com/ghpvc/?username=Rio-Nyx)
