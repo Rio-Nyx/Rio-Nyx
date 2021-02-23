@@ -18,8 +18,8 @@ I am one who likes to do different sort of things each day.
 
 ![status.png](https://github.com/Rio-Nyx/Rio-Nyx/blob/main/status.png)
 
-[![Rio-Nyx StackOverflow](https://stackoverflow-badge.vercel.app/?userID=12629996)](https://stackoverflow.com/users/12629996/rio-nyx)
-
+<!--[![Rio-Nyx StackOverflow](https://stackoverflow-badge.vercel.app/?userID=12629996)](https://stackoverflow.com/users/12629996/rio-nyx)
+-->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Rio-Nyx&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=86400)
 <!--
 profile 
@@ -27,7 +27,9 @@ profile
 stack overflow
 [![Rio Nyx StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12629996)](https://stackoverflow.com/users/12629996/rio-nyx)
 -->
+<!--
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/Rio-Nyx/count.svg" />
 </p>
+-->
