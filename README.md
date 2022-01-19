@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am one who likes to do different sort of things each day. 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Rio-Nyx&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=86400)
+|||
+| ------------- | ------------- |
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=rio-nyx&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=86400">  |  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rio-nyx&layout=compact&theme=radical&cache_seconds=86400"> |
 
 ![status.png](https://github.com/Rio-Nyx/Rio-Nyx/blob/main/status.png)
 
