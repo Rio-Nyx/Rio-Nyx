@@ -8,16 +8,22 @@ Here are some ideas to get you started:
 - 🔭 I’m currently CSE undergraduate
 - 👯 I enjoy writing scripts using sh, python.
 - 🤔 I’m familiar with python frameworks Django, flask.
-- 💬 Ask me about ...
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/rahul-h-7baa161a6/"><img src="/assets/linkedin.png" alt="linkedin"></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/rahul-h-7baa161a6/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+
 - ⚡ Fun fact: Linux Enthusiast
 
-I am one who likes to do different sort of things each day. 
+
 |||
 | ------------- | ------------- |
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=rio-nyx&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=86400">  |  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rio-nyx&layout=compact&theme=radical&cache_seconds=86400"> |
 
 <!--
+
+<h3>
+I'm Familiar with:
+</h3>
+
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![status.png](https://github.com/Rio-Nyx/Rio-Nyx/blob/main/status.png)
 
 [![Rio-Nyx StackOverflow](https://stackoverflow-badge.vercel.app/?userID=12629996)](https://stackoverflow.com/users/12629996/rio-nyx)
