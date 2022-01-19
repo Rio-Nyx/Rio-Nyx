@@ -1,4 +1,4 @@
-<h2> 👋 Hi there, I am Rahul</h2>
+<h2 align="center"> 👋 Hi there, I am Rahul</h2>
 
 <!--
 **Rio-Nyx/Rio-Nyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
