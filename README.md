@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m familiar with python frameworks Django, flask.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/rahul-h-7baa161a6/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
-- ⚡ Fun fact: Linux Enthusiast
+- ⚡ Fun fact: Steve Jobs offered Linus Torvalds a job in 2000, on the condition that he stopped development on Linux. Linus (thankfully) declined.
 
 
 |||
