@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a CSE undergraduate
 - 👯 I enjoy writing scripts using sh, python.
 - 🤔 I’m familiar with python frameworks Django, flask.
-- 📫 How to reach me:[![Linkedin: rahul](https://img.shields.io/badge/-rahul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-h-7baa161a6/)](https://www.linkedin.com/in/rahul-h-7baa161a6/)
+- 📫 How to reach me:    [![Linkedin: rahul](https://img.shields.io/badge/-rahul-blue?style=flat-square&logo=Linkedin&logoColor=white&logoWidth=1&size=20&link=https://www.linkedin.com/in/rahul-h-7baa161a6/)](https://www.linkedin.com/in/rahul-h-7baa161a6/)
 <!--
 -  <a href="https://www.linkedin.com/in/rahul-h-7baa161a6/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoWidth=10&logo=linkedin&logoColor=white" ></a>
 -->
