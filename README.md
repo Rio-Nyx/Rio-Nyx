@@ -8,8 +8,24 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a CSE undergraduate
 - 👯 I enjoy writing scripts using sh, python.
 - 🤔 I’m familiar with python frameworks Django, flask.
-- 📫 How to reach me:    [![Linkedin: rahul](https://img.shields.io/badge/-rahul-blue?style=flat-square&logo=Linkedin&logoColor=white&size=20&link=https://www.linkedin.com/in/rahul-h-7baa161a6/)](https://www.linkedin.com/in/rahul-h-7baa161a6/)
+
+<h2 align="center">Connect Me !! 🤝</h2> 
+
+<p align="center">
+<a href="https://rio-nyx.medium.com/" >
+<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/rahul-h-7baa161a6/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:rahulh1105@gmail.com">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p> 
+
 <!--
+- 📫 How to reach me:    [![Linkedin: rahul](https://img.shields.io/badge/-rahul-blue?style=flat-square&logo=Linkedin&logoColor=white&size=20&link=https://www.linkedin.com/in/rahul-h-7baa161a6/)](https://www.linkedin.com/in/rahul-h-7baa161a6/)
+
 -  <a href="https://www.linkedin.com/in/rahul-h-7baa161a6/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoWidth=10&logo=linkedin&logoColor=white" ></a>
 -->
 <!-- - ⚡ Fun fact: There are around 700 separate programming languages and new ones are constantly being created -->
