@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 |||
 | ------------- | ------------- |
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=rio-nyx&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=86400">  |  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rio-nyx&layout=compact&theme=radical&cache_seconds=86400"> |
+|<img align="center" src="https://github-readme-stats-seven-delta-80.vercel.app/api?username=rio-nyx&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=86400">  |  <img align="center" src="https://github-readme-stats-seven-delta-80.vercel.app/api/top-langs/?username=rio-nyx&layout=compact&theme=radical&cache_seconds=86400"> |
 
 <!--
 
