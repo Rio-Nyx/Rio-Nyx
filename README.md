@@ -1,14 +1,14 @@
-<h2 align="center"> 👋 Hi there, I am Rahul</h2>
+<h2 align="center"> 👋 Hi there</h2>
 
 <!--
 **Rio-Nyx/Rio-Nyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently a CSE undergraduate
 - 👯 I enjoy writing scripts using sh, python.
-- 🤔 I’m familiar with python frameworks Django, flask.
-
+- 🤔 I occasionally ues python frameworks Django, flask.
+- 🐧 Linux enthusiast
+  
 <h2 align="center">Connect Me !! 🤝</h2> 
 
 <p align="center">
